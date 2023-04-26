@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "-pearmh-log",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/Users/towhy/Workspace/-pearmh-log/now-profile.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "ai researcher & precision engineer",
     bio: "Beyond the precision.",
     email: "yuyuqw92@gmail.com",
@@ -31,10 +31,10 @@ const CONFIG = {
   seo: {
     keywords: ["Blog", "Website", "Notion"],
   },
-
+  
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: "13a2d881de054c4b85d307ed6ca0d58b",
   },
 
   // plugin configuration (optional)
