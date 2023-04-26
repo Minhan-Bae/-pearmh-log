@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "-pearmh-log",
-    image: "/Users/towhy/Workspace/-pearmh-log/now-profile.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "ai researcher & precision engineer",
     bio: "Beyond the precision.",
     email: "yuyuqw92@gmail.com",
